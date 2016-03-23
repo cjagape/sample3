@@ -1,0 +1,13 @@
+{
+  "name": "Spring Boot Sample",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://git.heroku.com/aqueous-plateau-10988.git",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "env": {
+    "SECRET_TOKEN": {
+      "description": "A secret key for verifying the integrity of signed cookies.",
+      "generator": "secret"
+    }
+  }
+}
