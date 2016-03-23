@@ -1,0 +1,13 @@
+{
+  "name": "Spring Boot Sample",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/beanze/sample",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["sample"],
+  "env": {
+    "DATABASE_URL": {
+      "description": "A secret key for verifying the integrity of signed cookies.",
+      "value": "postgres://ietumyubcdydmv:NxHjB4MCbIZ2QNEy9sJW041nTX@ec2-107-22-248-209.compute-1.amazonaws.com:5432/d2i51f9ne1nqgc"
+    }
+  }
+}
