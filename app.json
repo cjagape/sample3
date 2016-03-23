@@ -1,6 +1,6 @@
 {
   "name": "Spring Boot Sample",
   "description": "A barebones Node.js app using Express 4",
-  "repository": "https://git.heroku.com/aqueous-plateau-10988.git",
+  "repository": "https://git.heroku.com/aqueous-plateau-10988",
   "logo": "https://node-js-sample.herokuapp.com/node.svg"
 }
