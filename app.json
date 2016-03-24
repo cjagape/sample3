@@ -1,7 +1,0 @@
-{
-  "name": "Spring Boot Sample",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/beanze/sample",
-  "logo": "https://node-js-sample.herokuapp.com/node.svg",
-  "keywords": ["sample"]
-}
