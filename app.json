@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "sample3",
   "scripts": {
   },
@@ -13,8 +12,4 @@
       "url": "urn:buildpack:heroku/java"
     }
   ]
-=======
-  "name": "Spring Boot Sample",
-  "repository": "https://github.com/beanze/sample"
->>>>>>> cea26e4249bf19b8a68e31022b01b90df74ae12d
 }
