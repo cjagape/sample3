@@ -12,7 +12,7 @@ public class DemoApplication {
     @RequestMapping("/")
     @ResponseBody
     String home() {
-      return "PPPlease Change!!!!!!";
+      return "Hellow Heroku";
     }
 
     public static void main(String[] args) {
