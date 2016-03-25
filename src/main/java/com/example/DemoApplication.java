@@ -12,7 +12,7 @@ public class DemoApplication {
     @RequestMapping("/")
     @ResponseBody
     String home() {
-      return "Hellow Heroku";
+      return "Hello Heroku Review";
     }
 
     public static void main(String[] args) {
